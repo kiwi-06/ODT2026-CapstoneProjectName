@@ -16,9 +16,9 @@
 
 **⚙️ How to Navigate This Repository**
 
-Electronics Details → Circuit, components, and hardware design
+Electronics Details → Circuit, components justification
 
-Mechanical Details → Physical build, CAD, and fabrication
+Mechanical Details → Sketches, CAD, and fabrication
 
 Software Details → Code, logic, and implementation
 
